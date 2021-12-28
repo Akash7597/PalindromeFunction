@@ -1,0 +1,8 @@
+C:\Users\AkashVikas\source\repos\PalindromeFunction\PalindromeFunction\bin\Debug\PalindromeFunction.exe.config
+C:\Users\AkashVikas\source\repos\PalindromeFunction\PalindromeFunction\bin\Debug\PalindromeFunction.exe
+C:\Users\AkashVikas\source\repos\PalindromeFunction\PalindromeFunction\bin\Debug\PalindromeFunction.pdb
+C:\Users\AkashVikas\source\repos\PalindromeFunction\PalindromeFunction\obj\Debug\PalindromeFunction.csproj.AssemblyReference.cache
+C:\Users\AkashVikas\source\repos\PalindromeFunction\PalindromeFunction\obj\Debug\PalindromeFunction.csproj.SuggestedBindingRedirects.cache
+C:\Users\AkashVikas\source\repos\PalindromeFunction\PalindromeFunction\obj\Debug\PalindromeFunction.csproj.CoreCompileInputs.cache
+C:\Users\AkashVikas\source\repos\PalindromeFunction\PalindromeFunction\obj\Debug\PalindromeFunction.exe
+C:\Users\AkashVikas\source\repos\PalindromeFunction\PalindromeFunction\obj\Debug\PalindromeFunction.pdb
